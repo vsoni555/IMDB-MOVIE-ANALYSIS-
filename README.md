@@ -1,4 +1,4 @@
-# IMDB-MOVIE-ANALYSIS-
+# IMDB-MOVIE-ANALYSIS
 This project aims to carry out the in-depth analysis of IMDB movie dataset. SQL and Excel are used to draw insights,
 
 You are required to provide a detailed report for the below data record mentioning the answers of the questions that follows:
